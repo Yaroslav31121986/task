@@ -1,0 +1,28 @@
+Name Ярослав
+E-Mail Address email@email.com
+Password Ярослав
+
+Name Василий
+E-Mail Address email1@email.com
+Password Василий
+
+Name Андрей
+E-Mail Address email2@email.com
+Password Андрей
+
+Name Николай
+E-Mail Address email3@email.com
+Password Николай
+
+Name Дмитрий
+E-Mail Address email4@email.com
+Password Дмитрий
+
+php artisan make:migration сar_park
+php artisan make:migration create_сar_park_table
+create_park_table
+
+php artisan make:migration create_park_car_table
+
+php artisan make:controller ManagerController
+
